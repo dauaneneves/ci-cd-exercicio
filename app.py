@@ -1,2 +1,2 @@
-def soma(a,b):  # <-- erro proposital (sem espaço após vírgula)
-    return a + b
+def multiplica(a, b):
+    return a * b
